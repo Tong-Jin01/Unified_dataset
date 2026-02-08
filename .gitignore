@@ -1,0 +1,9 @@
+# checkpoints
+*.pth
+*.ckpt
+*.pt
+
+# logs & cache
+logs/
+cache/
+__pycache__/
