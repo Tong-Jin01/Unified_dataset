@@ -83,4 +83,4 @@ python3 benchmark.py
 
 ## Merge
 
-After processing all the cities, we only need to move each generated city folder (for example, Pitts30K0) to the `/path/to/your/datasets_vg/datasets/gsv_cities/Images/`, and move the corresponding csv file (for example, Pitts30k0.csv) to `/path/to/your/datasets_vg/datasets/gsv_cities/Dataframes/`. Then, you can use them together with GSV_Cities for training.
+After processing all the cities, we only need to move each generated city folder (for example, Pitts30K0) to the `/path/to/your/datasets_vg/datasets/gsv_cities/Images/`, and move the corresponding csv file (for example, Pitts30k0.csv) to `/path/to/your/datasets_vg/datasets/gsv_cities/Dataframes/`. Then, you can use them together with GSV-Cities for training.
